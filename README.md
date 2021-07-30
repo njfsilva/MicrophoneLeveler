@@ -12,7 +12,12 @@ You can use MicrophoneLeveler to keep your microphone gain level at a set value 
 
 Suggested Use:
 
--Set whatever level (in Db) you want on the application code (if your use case is like mine, this will always be 0) and use Windows TaskScheduler to start the application in the background during startup.
+Set whatever level (in dB) you want on the application code (if your use case is like mine, this will always be 0) and use Windows TaskScheduler to start the application in the background during startup.
 
 
 You will never need to set audio levels again for non-ASIO applications.
+
+
+Was this useful? 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YPFFEYR92DXHL)
